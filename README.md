@@ -318,7 +318,7 @@ Quick Reference
 <a href="https://github.com/Harris-H" title="Hao He"><img src="https://avatars.githubusercontent.com/u/57698783?v=4" width="42;" alt="Hao He"/></a>
 <a href="https://github.com/LiuYuan-SHU" title="Yuan Liu"><img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Yuan Liu"/></a>
 <a href="https://github.com/long-910" title="Small Long"><img src="https://avatars.githubusercontent.com/u/7323488?v=4" width="42;" alt="Small Long"/></a>
-<a href="https://github.com/Willxup" title="Willxup"><img src="https://avatars.githubusercontent.com/u/51990395?v=4" width="42;" alt="Willxup"/></a>
+<a href="https://github.com/Willxup" title="Will"><img src="https://avatars.githubusercontent.com/u/51990395?v=4" width="42;" alt="Will"/></a>
 <a href="https://github.com/xia0ne" title="YuRuiH"><img src="https://avatars.githubusercontent.com/u/32591223?v=4" width="42;" alt="YuRuiH"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>
 <a href="https://github.com/richuff" title="richuff"><img src="https://avatars.githubusercontent.com/u/162144087?v=4" width="42;" alt="richuff"/></a>
@@ -389,7 +389,7 @@ Quick Reference
 <a href="https://github.com/LuckyJie12" title="夜未央"><img src="https://avatars.githubusercontent.com/u/102901105?v=4" width="42;" alt="夜未央"/></a>
 <a href="https://github.com/kele527" title="吹衣轻飏"><img src="https://avatars.githubusercontent.com/u/345445?v=4" width="42;" alt="吹衣轻飏"/></a>
 <a href="https://github.com/lvzhenbo" title="无聊波波"><img src="https://avatars.githubusercontent.com/u/32427677?v=4" width="42;" alt="无聊波波"/></a>
-<a href="https://github.com/zxx457" title="zxx457"><img src="https://avatars.githubusercontent.com/u/114141362?v=4" width="42;" alt="zxx457"/></a>
+<a href="https://github.com/zxx457" title="Xianxin Zeng"><img src="https://avatars.githubusercontent.com/u/114141362?v=4" width="42;" alt="Xianxin Zeng"/></a>
 <a href="https://github.com/zhouhw0306" title="zhouhw0306"><img src="https://avatars.githubusercontent.com/u/82752681?v=4" width="42;" alt="zhouhw0306"/></a>
 <a href="https://github.com/hiyms" title="yms"><img src="https://avatars.githubusercontent.com/u/84654050?v=4" width="42;" alt="yms"/></a>
 <a href="https://github.com/giteeking" title="xunjian"><img src="https://avatars.githubusercontent.com/u/166626162?v=4" width="42;" alt="xunjian"/></a>
@@ -592,6 +592,7 @@ Quick Reference
 非常感谢那些一直支持我开源工作的朋友们。如果您对我的工作感到满意，可以选择在[这里进行赞助](https://wangchujiang.com/#/sponsor)<!--rehype:target=_blank-->。也可以通过下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app)<!--rehype:target=_blank-->来支持我。以下是我个人开发的 macOS 应用：
   
 <p style="display: inline-block">
+  <a target="_blank" href="https://wangchujiang.com/videoer/" title="Videoer for macOS"><img align="center" alt="Videoer" height="52" width="52" src="https://github.com/user-attachments/assets/12c02a7a-109e-4048-91f4-ab2dfd1e264e"></a>
   <a target="_blank" href="https://wangchujiang.com/key-clicker/" title="KeyClicker for macOS"><img align="center" alt="KeyClicker" height="50" width="50" src="https://github.com/user-attachments/assets/5a19fcb9-cb81-4855-b4ea-31c604d9612a"></a>
   <a target="_blank" href="https://wangchujiang.com/daybar/" title="DayBar for macOS"><img align="center" alt="DayBar" height="50" width="50" src="https://github.com/user-attachments/assets/b67d4a2e-92e2-4d8c-8c6f-2a1eb3e2fa93"></a>
   <a target="_blank" href="https://wangchujiang.com/iconed/" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
