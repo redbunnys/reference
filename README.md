@@ -21,6 +21,7 @@ Quick Reference
 非常感谢一直以来支持我开源项目的朋友们！如果您认可我的工作，欢迎通过 [赞助](https://wangchujiang.com/#/sponsor)<!--rehype:target=_blank--> 我或下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app)<!--rehype:target=_blank--> 来支持我。以下是我个人独立开发的 macOS 应用列表：
 
 <p style="display: inline-block">
+  <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="./appicon/vidwall.png"></a>
   <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="./appicon/mousio-hint.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="./appicon/mousio.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="./appicon/musicer.png"></a>
@@ -354,7 +355,7 @@ Quick Reference
 <a href="https://github.com/LesterChang0987" title="Steve Hartwell"><img src="https://avatars.githubusercontent.com/u/114913921?v=4" width="42;" alt="Steve Hartwell"/></a>
 <a href="https://github.com/h7ml" title="h7ml"><img src="https://avatars.githubusercontent.com/u/55233292?v=4" width="42;" alt="h7ml"/></a>
 <a href="https://github.com/nangongchengfeng" title="南宫乘风"><img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="42;" alt="南宫乘风"/></a>
-<a href="https://github.com/aixcyi" title="阿羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="阿羽"/></a>
+<a href="https://github.com/aixcyi" title="路狐羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="路狐羽"/></a>
 <a href="https://github.com/LufsX" title="LufsX"><img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/></a>
 <a href="https://github.com/alex-reinfoce" title="Alex"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
