@@ -49,7 +49,7 @@ Quick Reference
   <a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img align="center" alt="KeyClicker" height="50" width="50" src="./appicon/key-clicker.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img align="center" alt="DayBar" height="50" width="50" src="./appicon/daybar.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="./appicon/iconed.png"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6737160756" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="./appicon/rightmenu-master.png"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6737160756" title="Menuist for macOS"><img align="center" alt="Menuist" height="50" width="50" src="./appicon/menuist.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img align="center" alt="Paste Quick" height="50" width="50" src="./appicon/paste-quick.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6670696072" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="./appicon/quick-rss.png"></a>
   <a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="./appicon/web-serve.png"></a>
@@ -385,7 +385,7 @@ Quick Reference
 <a href="https://github.com/LesterChang0987" title="Steve Hartwell"><img src="https://avatars.githubusercontent.com/u/114913921?v=4" width="42;" alt="Steve Hartwell"/></a>
 <a href="https://github.com/h7ml" title="h7ml"><img src="https://avatars.githubusercontent.com/u/55233292?v=4" width="42;" alt="h7ml"/></a>
 <a href="https://github.com/nangongchengfeng" title="南宫乘风"><img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="42;" alt="南宫乘风"/></a>
-<a href="https://github.com/aixcyi" title="林狐羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="林狐羽"/></a>
+<a href="https://github.com/aixcyi" title="路狐羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="路狐羽"/></a>
 <a href="https://github.com/LufsX" title="LufsX"><img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/></a>
 <a href="https://github.com/liduchuan" title="Alex"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
