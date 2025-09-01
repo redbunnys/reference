@@ -10,6 +10,12 @@
   <a href="https://go.warp.dev/reference"><b>Warp, the intelligent terminal for developers!</b></a><br>
   <a href="https://go.warp.dev/reference">Available for MacOS, Linux, & Windows</a><br><br>
 
+  <a href="https://tuple.app/reference">
+    <img alt="Zenquery sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/tuple.app.png">
+  </a>
+  <br>
+  <a href="https://tuple.app/reference">Tuple, the premier screen sharing app for developers on macOS and Windows.</a>
+
   <br><br>
 </div>
 <hr>
@@ -76,6 +82,12 @@ Quick Reference
       <img alt="Warp sponsorship" height="160" src="https://jaywcjlove.github.io/sponsor/Warp-Github-LG-01.png"><br>
       <b>Warp, the intelligent terminal for developers!</b><br/>
       Available for MacOS, Linux, & Windows<br/>
+    </a>
+  </p>
+  <p>
+    <a href="https://tuple.app/reference">
+      <img alt="Warp sponsorship" height="160" src="https://jaywcjlove.github.io/sponsor/tuple.app.png"><br>
+      Tuple, the premier screen sharing app for developers on macOS and Windows.<br/>
     </a>
   </p>
 </div>
@@ -390,7 +402,6 @@ Quick Reference
 <a href="https://github.com/LufsX" title="LufsX"><img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/></a>
 <a href="https://github.com/liduchuan" title="Alex"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
-<a href="https://github.com/expoli" title="expoli"><img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/></a>
 <a href="https://github.com/k23223" title="k23223"><img src="https://avatars.githubusercontent.com/u/57606136?v=4" width="42;" alt="k23223"/></a>
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
 <a href="https://github.com/ChuwuYo" title="ChuwuYo"><img src="https://avatars.githubusercontent.com/u/141227996?v=4" width="42;" alt="ChuwuYo"/></a>
@@ -458,7 +469,7 @@ Quick Reference
 <a href="https://github.com/gzttcydxx" title="gzttcydxx"><img src="https://avatars.githubusercontent.com/u/50025185?v=4" width="42;" alt="gzttcydxx"/></a>
 <a href="https://github.com/sunny0826" title="Xudong Guo"><img src="https://avatars.githubusercontent.com/u/24563928?v=4" width="42;" alt="Xudong Guo"/></a>
 <a href="https://github.com/nodjoy" title="gowshwah"><img src="https://avatars.githubusercontent.com/u/145280043?v=4" width="42;" alt="gowshwah"/></a>
-<a href="https://github.com/godot42x" title="godot42"><img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godot42"/></a>
+<a href="https://github.com/godot42x" title="godot42x"><img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godot42x"/></a>
 <a href="https://github.com/gi-b716" title="Yunchi Gan"><img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="Yunchi Gan"/></a>
 <a href="https://github.com/fjqz177" title="fjqz177"><img src="https://avatars.githubusercontent.com/u/83070583?v=4" width="42;" alt="fjqz177"/></a>
 <a href="https://github.com/fenglielie" title="fenglielie"><img src="https://avatars.githubusercontent.com/u/51266402?v=4" width="42;" alt="fenglielie"/></a>
