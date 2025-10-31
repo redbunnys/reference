@@ -81,17 +81,18 @@ Quick Reference
   <br>
   <p>
     <a href="https://go.warp.dev/reference">
-      <img alt="Warp sponsorship" height="160" src="https://jaywcjlove.github.io/sponsor/Warp-Github-LG-01.png"><br>
+      <img alt="Warp sponsorship" width="230" src="https://jaywcjlove.github.io/sponsor/Warp-Github-LG-01.png"><br>
       <b>Warp, the intelligent terminal for developers!</b><br/>
       Available for MacOS, Linux, & Windows<br/>
     </a>
-  </p>
-  <p>
+    <!--rehype:style=width: 230px;font-size: 14px;-->
     <a href="https://tuple.app/reference">
-      <img alt="Warp sponsorship" height="160" src="https://jaywcjlove.github.io/sponsor/tuple.app.png"><br>
+      <img alt="Warp sponsorship" width="230" src="https://jaywcjlove.github.io/sponsor/tuple.app.png"><br>
       Tuple, the premier screen sharing app for developers on macOS and Windows.<br/>
     </a>
+    <!--rehype:style=width: 230px;font-size: 14px;-->
   </p>
+  <!--rehype:style=display:flex;gap:21px;-->
 </div>
 
 ## 正在建设中...
@@ -604,6 +605,7 @@ Quick Reference
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
 
+[hanacloud.site](https://reference.hanacloud.site)<!--rehype:target=_blank-->
 [doc.xyz.sb](https://doc.xyz.sb)<!--rehype:target=_blank-->
 [quickref.cn](https://quickref.cn)<!--rehype:target=_blank-->
 [axchen.top](https://ref.tool.axchen.top)<!--rehype:target=_blank-->
